@@ -16,7 +16,7 @@ This project is a handwritten digit recognition application built using Python, 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/handwritten-digit-recognition.git
+   [ git clone https://github.com/your_username/handwritten-digit-recognition.git](https://github.com/Yashwanth-git-coder/Digit-Recognition.git)
     ```
 
 2. Navigate to the project directory:
